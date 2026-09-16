@@ -51,5 +51,7 @@ for key,value in marks.items():
 print("TOTAL_MARK:",total)
 print("GRADE:",grade)
 
+print("atho painnurah effort ku palan erutha seri")
+
 
 
