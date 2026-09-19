@@ -65,12 +65,4 @@ print("enn  peru prakash")
 
 print("otha na tha")
 print("iam hero")
-<<<<<<< HEAD
-  print("ma sai")
-=======
-
-
-print("hii")
-
-print("bye")
->>>>>>> 3c7f01f0ccda9da0285317c0207f6905621c06e7
+ 
