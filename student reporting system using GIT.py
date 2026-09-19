@@ -55,3 +55,5 @@ print("atho painnurah effort ku palan erutha seri")
 
 print("day two of my git learning journey")
 
+print("today holiday i just practice my git")
+
