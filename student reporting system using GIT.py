@@ -58,3 +58,6 @@ print("day two of my git learning journey")
 print("today holiday i just practice my git")
 
 print("hello guy")
+
+print("hello iam praksh")
+print("enn  peru prakash")
